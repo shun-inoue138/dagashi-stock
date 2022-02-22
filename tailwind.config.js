@@ -16,6 +16,12 @@ module.exports = {
         ],
         display: ['Oswald'],
       },
+      colors: {
+        'main-bg': '#e6e6e6',
+        'main-text': '#484443',
+        'sub-bg': '#fcfcfc',
+        accent: '#dec2d9',
+      },
     },
   },
   plugins: [],
