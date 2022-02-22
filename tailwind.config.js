@@ -21,6 +21,9 @@ module.exports = {
         'sub-bg': '#fcfcfc',
         accent: '#dec2d9',
       },
+      screens: {
+        'side-iPad': '1150px',
+      },
     },
   },
   plugins: [],
