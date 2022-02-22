@@ -14,7 +14,6 @@ module.exports = {
           'Meiryo',
           'sans-serif',
         ],
-        display: ['Oswald'],
       },
       colors: {
         'main-bg': '#e6e6e6',
