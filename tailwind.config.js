@@ -16,9 +16,9 @@ module.exports = {
         ],
       },
       colors: {
-        'main-bg': '#e6e6e6',
-        'main-text': '#484443',
-        'sub-bg': '#fcfcfc',
+        'main-gray': '#e6e6e6',
+        'main-black': '#484443',
+        'sub-white': '#fcfcfc',
         accent: '#dec2d9',
       },
       screens: {
